@@ -1,1 +1,0 @@
-print("\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t*\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t*\t\t*\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t*\t\t\t\t*\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t*\t\tHi,\t\t\t\t*\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t*\t   paulopogi\t\t*\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t*\t\t*\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t*")
