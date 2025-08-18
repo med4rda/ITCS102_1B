@@ -1,0 +1,10 @@
+x = 10
+y = 15
+name1 = "paulopogi"
+name2 = "paulo"
+print(x > y)
+print(x < y)
+print(x >= y)
+print(x <= y)
+print(name1 == name2)
+print(name1 != name2)
